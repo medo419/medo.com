@@ -15,28 +15,7 @@ Description: The first real iOS system cleanup and management utility
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 SileoDepiction: 
-Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+Icon: https://tools4cydia.info/images/CydiaIcon.png
 Installed-size: 2442
-
-
-
-
-Package: com.bvn.bhtiktok
-Name: BHTikTok Plus
-Version: 2.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.bhtiktok_2.3_iphoneos-arm.deb
-Size: 624860
-MD5sum: 6ed7ff86a95e9fd04269f3525a970ad1
-SHA1: 1f84d26b64b42637860bc7ee1e5b69827a3fb810
-SHA256: 8ecb1c11449bbb4f4568a0bff801152216021b72aa4d3ebc5c263932a730a42c
-Section: Tweaks
-Description: Một tinh chỉnh tuyệt vời cho TikTok!
-Author: bvn repo
-Depiction: http://bvnsupport.github.io/infodeb/BHTikTok/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/BHTikTok.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Installed-size: 611
 
 
