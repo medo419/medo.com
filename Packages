@@ -1,26 +1,5 @@
 
 
-Package: com.opa334.choicy
-Name: Choicy
-Version: 1.5.2-2
-Architecture: iphoneos-arm
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/choicy_1.5.2-2 2.deb
-Size: 257326
-MD5sum: 8a9cb6aeee71b28366715a0a65ccd748
-SHA1: b02c4107a6a2f25d805cdee8e01c08f09b66538a
-SHA256: 52183996011d183c10f966c137928df14b130057b7786dec560edd9c0c469f8a
-Section: Tweaks
-Description: Advanced Tweak Configuration!
-Author: BigBoss <bigboss@thebigboss.org>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
-SileoDepiction: 
-Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
-Installed-size: 252
-
-
-
-
 Package: com.tigisoftware.filza64bit
 Name: Filza File Manager 64-bit
 Version: 4.0.1-4
@@ -38,27 +17,6 @@ Depiction:
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
 Installed-size: 8497
-
-
-
-
-Package: com.tigisoftware.filza64bit
-Name: Filza File Manager 64-bit
-Version: 4.0.1-4
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm 2.deb
-Size: 8701068
-MD5sum: f7d33ec0b35a3398401d5755165a4298
-SHA1: d34724796db536b91a6f1ed242088f0bfaeb1995
-SHA256: 1a20cd1ca85ac0f5d7069d548438b4efa82ecce5d7bd640b3a7f07af1f5faca0
-Section: Utilities
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
-Author: TIGI Software
-Depiction: 
-SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 8498
 
 
 
