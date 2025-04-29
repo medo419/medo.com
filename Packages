@@ -1,5 +1,26 @@
 
 
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 2500468
+MD5sum: 11cfc678f3fd5e4c12eb60ff8b31e6ec
+SHA1: fd7065ca6e23f1fee6c11ee8c98ba67e54d8e6d9
+SHA256: b55b4312dee09989754fcb3f9137f4eed093b8fdb84a2b953b757de027aa6821
+Section: Utilities
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+SileoDepiction: 
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+Installed-size: 2442
+
+
+
+
 Package: com.bvn.bhtiktok
 Name: BHTikTok Plus
 Version: 2.3
