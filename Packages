@@ -5,7 +5,7 @@ Name: Choicy
 Version: 1.5.2-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/choicy_1.5.2-2.deb
+Filename: ./debs/choicy_1.5.2-2 2.deb
 Size: 257326
 MD5sum: 8a9cb6aeee71b28366715a0a65ccd748
 SHA1: b02c4107a6a2f25d805cdee8e01c08f09b66538a
@@ -21,12 +21,54 @@ Installed-size: 252
 
 
 
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Version: 4.0.1-4
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64 2.deb
+Size: 8700882
+MD5sum: 3ba64c6c17e4a92c3afc89a95a224532
+SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
+SHA256: 5d354834ad5d44fcd2c1e3bdb4d082c25df6f8ba48f837745c2be1aec3f8f981
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Author: TIGI Software
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 8497
+
+
+
+
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Version: 4.0.1-4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm 2.deb
+Size: 8701068
+MD5sum: f7d33ec0b35a3398401d5755165a4298
+SHA1: d34724796db536b91a6f1ed242088f0bfaeb1995
+SHA256: 1a20cd1ca85ac0f5d7069d548438b4efa82ecce5d7bd640b3a7f07af1f5faca0
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Author: TIGI Software
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 8498
+
+
+
+
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
 Version: 7.10.0
 Architecture: iphoneos-arm64e
 Depends: firmware (>= 4.0), findutils, apt | apt7
-Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e 2.deb
 Size: 2500468
 MD5sum: 11cfc678f3fd5e4c12eb60ff8b31e6ec
 SHA1: fd7065ca6e23f1fee6c11ee8c98ba67e54d8e6d9
@@ -36,7 +78,7 @@ Description: The first real iOS system cleanup and management utility
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 SileoDepiction: 
-Icon: https://tools4cydia.info/images/CydiaIcon.png
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
 Installed-size: 2442
 
 
