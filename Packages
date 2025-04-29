@@ -1,5 +1,26 @@
 
 
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Version: 4.0.1-4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm.deb
+Size: 8701068
+MD5sum: f7d33ec0b35a3398401d5755165a4298
+SHA1: d34724796db536b91a6f1ed242088f0bfaeb1995
+SHA256: 1a20cd1ca85ac0f5d7069d548438b4efa82ecce5d7bd640b3a7f07af1f5faca0
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Author: TIGI Software
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 8498
+
+
+
+
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
 Version: 7.10.0
