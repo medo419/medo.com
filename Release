@@ -1,0 +1,8 @@
+Origin:  ‏​‏  medo | Repo
+Label:  ‏​‏  medo | Repo
+Suite: stable
+Version: 1.0
+Codename:  ‏​‏  medo | Repo
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: rootful & rootless & roothide
