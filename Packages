@@ -1,5 +1,26 @@
 
 
+Package: dev.objcmsgsend.iota.RivesDev
+Name: iota RootHide
+Version: 2.4
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/dev.objcmsgsend.iota.RivesDev_2.4_iphoneos-arm64e.deb
+Size: 559572
+MD5sum: 7d7c663d00c4c0d7b0a8330ecc37d558
+SHA1: e2b5231cbd355881b050b037a906aba6aa458d3f
+SHA256: f4f0142fb5c70b1d7e4d33f48d9fd50c5470ffbebfa1ec48764a3b6cb90f208e
+Section: Tweaks
+Description: Sn: ei_5m
+Author: objc_msgSend
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 547
+
+
+
+
 Package: com.tigisoftware.filza64bit
 Name: Filza File Manager 64-bit
 Version: 4.0.1-4
