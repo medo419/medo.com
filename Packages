@@ -1,5 +1,26 @@
 
 
+Package: com.ali7assan.bhtiktok.rootless
+Name: rootless
+Version: 2.3
+Architecture: iphoneos-arm642t
+Depends: mobilesubstrate
+Filename: ./debs/com.ali7assan.bhtiktok.rootless_2.3_iphoneos-arm64.deb
+Size: 624848
+MD5sum: 8bb036b0d0137ec1a72eecd1ac3a5bab
+SHA1: 876f6e77081f4f824169155a5d1df03b45f8097a
+SHA256: 58bad9bf4b65f3a313bf627cc063eba694208bd1a8d29f10f845d0f38f058484
+Section: Tweaks
+Description: 
+Author: 
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 611
+
+
+
+
 Package: com.opa334.choicy
 Name: Choicy
 Version: 1.5.2-2
