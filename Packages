@@ -1,5 +1,26 @@
 
 
+Package: com.opa334.trollstorelite
+Name: TrollStore Lite
+Version: 2.1
+Architecture: appletvos-arm64
+Depends: ldid
+Filename: ./debs/com.opa334.trollstorelite_2.1_appletvos-arm64.deb
+Size: 533948
+MD5sum: 4bbeadb6cdaa41f44aef09fce6c76b60
+SHA1: 2a69ab9916b1f9df9c930969e0f36cb32e15c1a7
+SHA256: 4c95d95d3c8c4ebe368e60b6a3216a5850b88fdbbf9724165cfbca21697f6686
+Section: Applications
+Description: TrollStore for jailbroken tvOS
+Author: opa334
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 522
+
+
+
+
 Package: com.ali7assan.bhtiktok.rootless
 Name: rootless
 Version: 2.3
