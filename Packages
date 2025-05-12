@@ -1,5 +1,26 @@
 
 
+Package: am.ldid
+Name: ldid for Apps Manager
+Version: 2.1.5-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/am.ldid_2.1.5-2_iphoneos-arm.deb
+Size: 2197082
+MD5sum: 83f7090c217bcbd115bded721d9d3a49
+SHA1: ddbb210f98fb37f5a1fe39f6549b7aed1d8e2664
+SHA256: ee32103f3e110db21504edd46974806baaa40ef39e858b351ee62925f4f7e3b8
+Section: Utilities
+Description: pseudo-codesign Mach-O files for Apps Manager. Built from ProcursusTeam/ldid
+Author: TIGI Software <info@tigisoftware.com>
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 2146
+
+
+
+
 Package: com.opa334.trollstorelite
 Name: TrollStore Lite
 Version: 2.1
