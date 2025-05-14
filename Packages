@@ -1,5 +1,26 @@
 
 
+Package: ws.hbang.common
+Name: Cephei Tweak Support
+Version: 2.0-29
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 15.0)
+Filename: ./debs/ws.hbang.common_2.0-29_iphoneos-arm64e.deb
+Size: 304566
+MD5sum: 8f10a20e69b6196d558680c6de959a10
+SHA1: 70a6fe7f4ad528248fc1f137edf8c14d23e54082
+SHA256: fd69a700d66bf44f4e579fb65cc5bdbd86c5dfd6726888639502b251f63b230b
+Section: Development
+Description: Support library for tweaks
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/cephei
+SileoDepiction: 
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Installed-size: 298
+
+
+
+
 Package: am.ldid
 Name: ldid for Apps Manager
 Version: 2.1.5-2
