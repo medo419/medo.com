@@ -166,3 +166,17 @@ Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Ico
 Installed-size: 2442
 
 
+Package: Saudi.bold.1.0.arm64e.deb
+Version: 
+Architecture: iphoneos-arm64e
+Maintainer: 
+Description: Saudi.bold.1.0.arm64e.deb package for iOS
+Section: Tweaks
+Filename: ./debs/Saudi.bold.1.0.arm64e.deb
+Size: 74404
+Installed-Size: 72
+MD5sum: b918b749ac1e192dc0d489addd8c1b38
+SHA1: 1ccf3f1549eb3482a992835a34b69c91b05e2280
+SHA256: 5de0d168a546d8cec103ce03976da88e51bde21a8a68b58380bdc61b7c115c73
+Name: Saudi.bold.1.0.arm64e.deb
+
