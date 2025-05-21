@@ -198,3 +198,18 @@ SHA1: cb9094cfb1088a114487d60da6cffbd477c7e1d7
 SHA256: f810e740b4b7d2ca379cd5c80bcdd5f0ac1690b2c9c7870480c44b4b49f576da
 Name: MTerminal.1.6.arm64e.deb
 
+Package: bhtiktokplus
+Version: 2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: medo
+Description: bhtiktokplus package for iOS
+Section: Tweaks
+Filename: ./debs/bhtiktokplus_2.3.1_iphoneos-arm64e.deb
+Size: 17612
+Installed-Size: 17
+MD5sum: ce4d35ba331d4b7a45d1cc87e58a0788
+SHA1: 4dd8f157f54da85b037d0f1adf9dfba31fadeb8f
+SHA256: ca11e7db274684e99e75b1d299aff2dd0698d8071ed0d823fa280b2175c4dc80
+Name: bhtiktokplus
+Author: medo
+
