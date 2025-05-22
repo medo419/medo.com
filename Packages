@@ -180,3 +180,17 @@ SHA1: cb9094cfb1088a114487d60da6cffbd477c7e1d7
 SHA256: f810e740b4b7d2ca379cd5c80bcdd5f0ac1690b2c9c7870480c44b4b49f576da
 Name: MTerminal.1.6.
 
+Package: DLEasy.2.14.8.
+Version: 
+Architecture: iphoneos-arm64e
+Maintainer: 
+Description: DLEasy.2.14.8.arm64e.deb package for iOS
+Section: Tweaks
+Filename: ./debs/DLEasy.2.14.8.arm64e.deb
+Size: 5476448
+Installed-Size: 5348
+MD5sum: fe8fd53fe79c5b8d9e85e6294e917a23
+SHA1: e21f7355c716f9b8235286c18224c286a513311f
+SHA256: 4a222c8cc9570cad998d580b11c59514e52b030d7c56ea7e07a17680b72bf7a2
+Name: DLEasy.2.14.8.arm64e.deb
+
