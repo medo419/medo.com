@@ -166,19 +166,3 @@ Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Ico
 Installed-size: 2442
 
 
-Package: AppData.1.4.1.arm.deb
-Version: 
-Architecture: iphoneos-arm
-Maintainer: medo
-Description: AppData.1.4.1.arm.deb package for iOS
-Section: Tweaks
-Depends: Fd
-Filename: ./debs/AppData.1.4.1.arm.deb
-Size: 5071180
-Installed-Size: 4952
-MD5sum: 2cc6358642902f2e093bee5205647aed
-SHA1: 38aef2c8f8330bb0a434a97459d5dc030fa4a173
-SHA256: b8bbfefcc88469d8b3acc6b924d711f8332428c986b602490d7f58090b1f93dc
-Name: AppData.1.4.1.arm.deb
-Author: Medo
-
