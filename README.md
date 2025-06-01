@@ -4,7 +4,7 @@
 
 
 
-<!DOCTYPE html>
+<!medol>
 <html
   lang="en"
   
