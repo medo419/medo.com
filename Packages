@@ -1,18 +1,22 @@
 
 
 Package: ws.hbang.common
+Name: Cephei Tweak Support
 Version: 2.0-29
 Architecture: iphoneos-arm64e
-Maintainer: 
-Description: ws.hbang.common package for iOS
-Section: Tweaks
-Filename: ./debs/ws.hbang.common_2.0-29_iphoneos-arm64e 2.deb
+Depends: firmware (>= 15.0)
+Filename: ./debs/ws.hbang.common_2.0-29_iphoneos-arm64e.deb
 Size: 304566
-Installed-Size: 297
 MD5sum: 8f10a20e69b6196d558680c6de959a10
 SHA1: 70a6fe7f4ad528248fc1f137edf8c14d23e54082
 SHA256: fd69a700d66bf44f4e579fb65cc5bdbd86c5dfd6726888639502b251f63b230b
-Name: ws.hbang.common
+Section: Development
+Description: Support library for tweaks
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/cephei
+SileoDepiction: 
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Installed-size: 298
 
 
 
@@ -162,17 +166,17 @@ Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Ico
 Installed-size: 2442
 
 
-Package: YouTube+
-Version: 2.0-29
+Package: Instagram.(Arabic.Localized).1.4.0.arm64e.deb
+Version: 1.4.0
 Architecture: iphoneos-arm64e
 Maintainer: 
-Description: ws.hbang.common package for iOS
+Description: Instagram.(Arabic.Localized).1.4.0.arm64e.deb package for iOS
 Section: Tweaks
-Filename: ./debs/ws.hbang.common_2.0-29_iphoneos-arm64e 2.deb
-Size: 304566
-Installed-Size: 297
-MD5sum: 8f10a20e69b6196d558680c6de959a10
-SHA1: 70a6fe7f4ad528248fc1f137edf8c14d23e54082
-SHA256: fd69a700d66bf44f4e579fb65cc5bdbd86c5dfd6726888639502b251f63b230b
-Name: ws.hbang.common
+Filename: ./debs/Instagram.(Arabic.Localized).1.4.0.arm64e.deb
+Size: 45936
+Installed-Size: 44
+MD5sum: 1fc359b61166ca3fc5bd846fa479e2f0
+SHA1: a2d44c229f73e2d81d4208fd29fcee81b53ac1a7
+SHA256: b1d2ec782d5412a459b5aff7702ea306bf08c4c4ecbe8371d59fc68a8d51a015
+Name: Instagram.(Arabic.Localized).1.4.0.arm64e.deb
 
