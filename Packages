@@ -166,3 +166,17 @@ Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Ico
 Installed-size: 2442
 
 
+Package: bhtwitter
+Version: 4.4
+Architecture: iphoneos-arm64e
+Maintainer: 
+Description: com.bandarhl.bhtwitter package for iOS
+Section: Tweaks
+Filename: ./debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm64e.deb
+Size: 6617168
+Installed-Size: 6462
+MD5sum: 030625039674a1825f0b73e97a6e4c13
+SHA1: 0e7427c5f890b1be7b34993c9867839fcc195865
+SHA256: b674a7f9ec680054f4e404e6303f0c563827ccd326480734ff1c84cb374cd50b
+Name: com.bandarhl.bhtwitter
+
