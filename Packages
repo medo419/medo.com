@@ -166,31 +166,3 @@ Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Ico
 Installed-size: 2442
 
 
-Package: Instagram.(Arabic.Localized).1.4.0.arm64e.deb
-Version: 1.4.0
-Architecture: iphoneos-arm64e
-Maintainer: 
-Description: Instagram.(Arabic.Localized).1.4.0.arm64e.deb package for iOS
-Section: Tweaks
-Filename: ./debs/Instagram.(Arabic.Localized).1.4.0.arm64e.deb
-Size: 45936
-Installed-Size: 44
-MD5sum: 1fc359b61166ca3fc5bd846fa479e2f0
-SHA1: a2d44c229f73e2d81d4208fd29fcee81b53ac1a7
-SHA256: b1d2ec782d5412a459b5aff7702ea306bf08c4c4ecbe8371d59fc68a8d51a015
-Name: Instagram.(Arabic.Localized).1.4.0.arm64e.deb
-
-Package: bhtwitter
-Version: 4.4
-Architecture: iphoneos-arm
-Maintainer: 
-Description: com.bandarhl.bhtwitter package for iOS
-Section: Tweaks
-Filename: ./debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm.deb
-Size: 6711092
-Installed-Size: 6553
-MD5sum: 20bd4540a98dbb921e3f4ff198117542
-SHA1: 2241b4fd00d273b5e3c97f992b1f1fa8b7514841
-SHA256: 04876f87e196bf776d0c21d4b4c8092ab98e9e97e7c41c8cd51caceee0797e3b
-Name: com.bandarhl.bhtwitter
-
