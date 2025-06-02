@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Matrix Rain Effect
   const matrixRain = document.querySelector('.matrix-rain');
-  const matrixChars = 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン0123456789';
+  const matrixChars = 'i l o v e y o u0123456789';
   
   function createMatrixDrop() {
     const drop = document.createElement('div');
