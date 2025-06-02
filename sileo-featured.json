@@ -1,0 +1,13 @@
+{
+	"class": "FeaturedBannersView",
+	"itemSize": "{296, 148}",
+	"itemCornerRadius": 10,
+	"banners": [
+		{
+			"url": "https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/header.png",
+			"title": "BHTwitter",
+			"package": "com.bandarhl.bhtwitter",
+			"hideShadow": false
+		}
+	]
+}
