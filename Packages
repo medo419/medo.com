@@ -1,0 +1,129 @@
+Package: com.bandarhl.bhtwitter
+Version: 4.4
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Depends: mobilesubstrate, ws.hbang.common
+Filename: debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm.deb
+Size: 6711092
+MD5sum: 20bd4540a98dbb921e3f4ff198117542
+SHA1: 2241b4fd00d273b5e3c97f992b1f1fa8b7514841
+SHA256: 04876f87e196bf776d0c21d4b4c8092ab98e9e97e7c41c8cd51caceee0797e3b
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Header: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/header.png
+Icon: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/depiction.json
+
+Package: com.bandarhl.bhtwitter
+Version: 4.4
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm64e.deb
+Size: 6617168
+MD5sum: 030625039674a1825f0b73e97a6e4c13
+SHA1: 0e7427c5f890b1be7b34993c9867839fcc195865
+SHA256: b674a7f9ec680054f4e404e6303f0c563827ccd326480734ff1c84cb374cd50b
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Header: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/header.png
+Icon: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/depiction.json
+
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 2500468
+MD5sum: 11cfc678f3fd5e4c12eb60ff8b31e6ec
+SHA1: fd7065ca6e23f1fee6c11ee8c98ba67e54d8e6d9
+SHA256: b55b4312dee09989754fcb3f9137f4eed093b8fdb84a2b953b757de027aa6821
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+Name: iCleaner Pro
+
+Package: com.opa334.trollstorelite
+Version: 2.1
+Architecture: appletvos-arm64
+Maintainer: opa334
+Installed-Size: 964
+Depends: ldid
+Filename: debs/com.opa334.trollstorelite_2.1_appletvos-arm64.deb
+Size: 533948
+MD5sum: 4bbeadb6cdaa41f44aef09fce6c76b60
+SHA1: 2a69ab9916b1f9df9c930969e0f36cb32e15c1a7
+SHA256: 4c95d95d3c8c4ebe368e60b6a3216a5850b88fdbbf9724165cfbca21697f6686
+Section: Applications
+Description: TrollStore for jailbroken tvOS
+Author: opa334
+Name: TrollStore Lite
+
+Package: com.tools4cydia.packages4
+Version: 3.3.2-1+roothide
+Architecture: iphoneos-arm64e
+Maintainer: tools4cydia
+Installed-Size: 732
+Filename: debs/packages4.3.3.2-1+roothide.arm64e.deb
+Size: 69516
+MD5sum: d973d81425185e48941acd4a07c55a11
+SHA1: 4f65d0f35f7363ec6abbc68500d1d8f4e688e18c
+SHA256: 8bf09f8f28c3808c3b2f9f4d778389f338fe1acd54f380c53dafbb9c2d746e98
+Section: Tools4cydia
+Description: اظهار تفاصيل ديب وانشاء ملفات packages و bz2 وgz بسهوله !
+Author: tools4cydia
+Name: packages4
+
+Package: dev.objcmsgsend.iota.RivesDev
+Version: 2.4
+Architecture: iphoneos-arm64e
+Maintainer: objc_msgSend
+Installed-Size: 2472
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Replaces: dev.objcmsgsend.iota.ar
+Filename: debs/dev.objcmsgsend.iota.RivesDev_2.4_iphoneos-arm64e.deb
+Size: 559572
+MD5sum: 7d7c663d00c4c0d7b0a8330ecc37d558
+SHA1: e2b5231cbd355881b050b037a906aba6aa458d3f
+SHA256: f4f0142fb5c70b1d7e4d33f48d9fd50c5470ffbebfa1ec48764a3b6cb90f208e
+Section: Tweaks
+Description: لتثبيت الاداة على أفضل وجه يرجى متابعة الشرح الموجود على حسابي في تويتر @_juz4
+Author: objc_msgSend
+Name: iota RootHide
+
+Package: ws.hbang.common
+Version: 2.0-29
+Architecture: iphoneos-arm64e
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 3132
+Depends: firmware (>= 15.0)
+Filename: debs/ws.hbang.common_2.0-29_iphoneos-arm64e 2.deb
+Size: 304566
+MD5sum: 8f10a20e69b6196d558680c6de959a10
+SHA1: 70a6fe7f4ad528248fc1f137edf8c14d23e54082
+SHA256: fd69a700d66bf44f4e579fb65cc5bdbd86c5dfd6726888639502b251f63b230b
+Section: Development
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/cephei
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Name: Cephei Tweak Support
+Support: https://hashbang.productions/support/
+
