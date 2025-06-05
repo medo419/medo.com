@@ -166,3 +166,17 @@ Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Ico
 Installed-size: 2442
 
 
+Package: TikTok.LRD
+Version: 3.7
+Architecture: iphoneos-arm64e
+Maintainer: 
+Description: TikTok.LRD.3.7.arm64e.deb package for iOS
+Section: Tweaks
+Filename: ./debs/TikTok.LRD.3.7.arm64e.deb
+Size: 3342696
+Installed-Size: 3264
+MD5sum: 343c238bbc0b644a91d873079dad34a7
+SHA1: e8dbe194da4173a2eabeca57b9ffe5c28d783824
+SHA256: dd3e175ce573c60f1fdcdc8c2f633415cf06befd229c14412d9de4e80549fd75
+Name: TikTok.LRD.3.7.arm64e.deb
+
