@@ -1,8 +1,8 @@
-Origin:  ‏​‏  medo | Repo
-Label:  ‏​‏  medo | Repo
+Origin: medo
+Label: medo
 Suite: stable
 Version: 1.0
-Codename:  ‏​‏  medo | Repo
-Architectures: iphoneos-arm64 iphoneos-arm64e
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: rootful & rootless & roothide
+Description: medo
