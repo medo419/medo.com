@@ -194,3 +194,18 @@ SHA1: e8dbe194da4173a2eabeca57b9ffe5c28d783824
 SHA256: dd3e175ce573c60f1fdcdc8c2f633415cf06befd229c14412d9de4e80549fd75
 Name: TikTok.LRD.3.7.arm64e.deb
 
+Package: Tiktok LRD
+Version: 3.7
+Architecture: iphoneos-arm64
+Maintainer: medo
+Description: com.istore.tiktoklrd package for iOS
+Section: Tweaks
+Filename: ./debs/com.istore.tiktoklrd_3.7_iphoneos-arm64.deb
+Size: 3342980
+Installed-Size: 3264
+MD5sum: 3340f6878aae9ec54d404a3bca3a3280
+SHA1: b0b73e93243393534dd7e710672afa2cd53a3f17
+SHA256: c75a8abe045e0eb1f56834001f007f9dba36a44f650bce8d5af1c73e29b7e825
+Name: com.istore.tiktoklrd
+Author: medo
+
