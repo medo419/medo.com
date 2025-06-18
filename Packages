@@ -128,6 +128,25 @@ Description: TrollStore for jailbroken tvOS
 Name: TrollStore Lite
 Author: opa334
 
+Package: com.ps.ytx
+Architecture: iphoneos-arm64e
+Version: 1.7.9
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.ps.ytabgoodies
+Filename: ./debs//com.ps.ytx_1.7.9_iphoneos-arm64e.deb
+Size: 5276
+MD5sum: 0231605f6f91ae63a6d6fea1ae329f91
+SHA1: 5ede48930f128aed99882cadc657104cc1100de1
+SHA256: d885885cf25d6957c7e3edbf4c2dcea75905552e8b3622a352f2dcded370e7e6
+SHA512: 79b326da0c76674d75801b3eb765d8ae102b6a6ad61401ce7c4bbd6bd877888ac6d6e6494d0122e2f84c69cf66494cca0c0f6f880897d683bf0c3188f33011df
+Description: A YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+
 Package: dev.objcmsgsend.iota.RivesDev
 Architecture: iphoneos-arm64e
 Version: 2.4
