@@ -1,315 +1,298 @@
-Package: sa.ipapplus.autorepomanager
-Architecture: iphoneos-arm
-Version: 1.1
-Section: scripts
-Maintainer: ipapplus
-Depends: apt-utils
-Filename: ./debs//AutoRepoManager.1.1.arm.deb
-Size: 3244
-MD5sum: 25c079279723125b41d1afe119c413b1
-SHA1: d1c1d765f14e269d8442f463386c34a564780cd3
-SHA256: dd0c6b0dd553c201bee28244569742b84ef190a1037e31af9866b9200d800854
-SHA512: 257dbbc7da536bc67db0d85c7f808bb4b1cc43d6e20b3826433a913b4d07d9dc7629b91ae47ae61d4e4bcbb869e8289d136c66db6f8deefd25ad4a1fd03cee41
-Description: is a collection of scripts for easily managing repositories through Filza It simplifies tasks like adding updating and organizing repos efficiently , Created by Ahmed AlGhrbi @ipapplus
-Name: AutoRepoManager
-Icon: https://i.imgur.com/ZKCJQvf.jpeg
-Author: ipapplus
-
-Package: com.ipapplus.instarab
-Architecture: iphoneos-arm64
-Version: 1.4.0
-Section: Localizations
-Maintainer: ipapplus
-Installed-Size: 256
-Depends: mobilesubstrate
-Filename: ./debs//Instagram.(Arabic.Localized).1.4.0.arm64.deb
-Size: 44884
-MD5sum: 60529bc8df8dd3d9b80b9fde4bef0d61
-SHA1: 61e4a614c032383612bce49f5c640759724abbc2
-SHA256: 4b9f6c3438adfc2c7e53d2754ff2e21a9fc57d4a4f5246feb0b01aea573900e2
-SHA512: e0f27357511c87b60c9ee8079d3d7b0a20e5dadabe3de71a398b8df452f246fa6d4badb5c51fe5fba9f1bc003b33cb3250a047161199bdfd2740eed19e3110b4
-Description: Arabic language for Instagram, translated with contribution from @r22i0.
-Name: Instagram (Arabic Localized)
-Author: ipapplus
-Icon: https://i.imgur.com/ffrKJBH.jpeg
-Header: https://i.imgur.com/xAIYmyc.jpeg
-
-Package: com.ipapplus.instarab
-Architecture: iphoneos-arm64e
-Version: 1.4.0
-Section: Localizations
-Maintainer: ipapplus
-Installed-Size: 256
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs//Instagram.(Arabic.Localized).1.4.0.arm64e 2.deb
-Size: 45936
-MD5sum: 1fc359b61166ca3fc5bd846fa479e2f0
-SHA1: a2d44c229f73e2d81d4208fd29fcee81b53ac1a7
-SHA256: b1d2ec782d5412a459b5aff7702ea306bf08c4c4ecbe8371d59fc68a8d51a015
-SHA512: 4673c9cf469dba583fdffae98d1062a3b660757cf6d4fa7211bea9bbb719374dbc16e8dfd6ccff13f680779e8e7f1154805ae537a4dd51fc298516420d12ca54
-Description: Arabic language for Instagram, translated with contribution from @r22i0.
-Name: Instagram (Arabic Localized)
-Author: ipapplus
-Icon: https://i.imgur.com/ffrKJBH.jpeg
-Header: https://i.imgur.com/xAIYmyc.jpeg
-
-Package: com.istore.JodelLRD
-Architecture: iphoneos-arm64
-Version: 2.10
-Section: Applications
-Maintainer: iStorePlus1
-Depends: mobilesubstrate
-Filename: ./debs//JodelLRD.2.10.arm64.deb
-Size: 925992
-MD5sum: 580b5f9e33a4ce5e6f7272dff5f1b27b
-SHA1: 53565912a88a7e30c6fe48af02c22d003797b020
-SHA256: e532532e882f0f56097384cf4f2905069c08153b0304f501f37a1d81685b9363
-SHA512: e53c3cc4bda48b771d4fe5313651d1327370b3784ae51d375233230b289fd0ce467033cdbacc1a2004d099bbed1ec95dd1055059c21b09420da27317b305c225
-Description: Paid tweak for Jodel
-Name: JodelLRD
-Author: iStorePlus1
-
-Package: com.istore.JodelLRD
-Architecture: iphoneos-arm64e
-Version: 2.10
-Section: Applications
-Maintainer: iStorePlus1
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs//JodelLRD.2.10.arm64e.deb
-Size: 925920
-MD5sum: 6fc23d6659b4da9562636e1fb27792ad
-SHA1: b6223ccd9cf0f6ec9c48f4c2b956fa5e96b4c7a7
-SHA256: 17e90e1f8d3fbcb4a18f834bf99d76d6b89351b3232ef804303c78d167ae9dca
-SHA512: 41b0609483e423322db5684b11dbcf667d738ccfd76ba069899d668d4134a84743194e6aca78041ffeb66dc5b89962b2078818b749d88ebdf9192c2ec20107f5
-Description: Paid tweak for Jodel
-Name: JodelLRD
-Author: iStorePlus1
-
-Package: com.iStore.TikTokLRD
-Architecture: iphoneos-arm64e
-Version: 3.7
-Section: Applications
-Maintainer: iStorePlus1
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs//TikTok.LRD.3.7.arm64e.deb
-Size: 3342696
-MD5sum: 343c238bbc0b644a91d873079dad34a7
-SHA1: e8dbe194da4173a2eabeca57b9ffe5c28d783824
-SHA256: dd3e175ce573c60f1fdcdc8c2f633415cf06befd229c14412d9de4e80549fd75
-SHA512: caea70a301dd69774913d65a806e6f501c81665e844d5226f87f836ee3ac4a462fd783515f0b65403060a095761d0a18361a1c0d34e6ff0694af7f5fd9311c42
-Description: Paid tweak for TikTok
-Name: TikTok LRD
-Author: iStorePlus1
-
-Package: com.f0u4d.watusitools
-Architecture: iphoneos-arm64
-Version: 2.5.24
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 12.0)
-Filename: ./debs//WatusiTools.2.5.24.arm64.deb
-Size: 4886660
-MD5sum: e8cb6a375e9b9ad3250a771659c4784f
-SHA1: 0952a2269f7688aefda4bc225a9186a767782706
-SHA256: 64130d223089b77d4ebc0c4be553ce2245813ef43d465fe188467430dfd129b0
-SHA512: 7f8f5d812497b99441a6b65fae7560bb6d12355a8119cf1788af77c897bf643a395a4bf29cf429d764d0be079c7f1dd42e2c5bd14bc66eaaffe3c39412d868da
-Description: Library for Watusi and other WhatsApp tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-
 Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm
 Version: 4.4
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 18344
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs//com.bandarhl.bhtwitter_4.4_iphoneos-arm.deb
-Size: 6711092
-MD5sum: 20bd4540a98dbb921e3f4ff198117542
-SHA1: 2241b4fd00d273b5e3c97f992b1f1fa8b7514841
-SHA256: 04876f87e196bf776d0c21d4b4c8092ab98e9e97e7c41c8cd51caceee0797e3b
-SHA512: 6e023f4e29d6df2f48b3c4e5f3913d8d50d2138f8afce2d8c80e7ffe27789817ec44040ef980f672d4e69c6cf43bdcc14ba4e3c9117460e9174656266136aa7b
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-SileoDepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/depiction.json
-Icon: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/icon.png
-Header: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/header.png
-
-Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64e
-Version: 4.4
-Section: Tweaks
 Maintainer: Bandar Alruwaili
 Installed-Size: 18344
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs//com.bandarhl.bhtwitter_4.4_iphoneos-arm64e.deb
+Filename: debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm64e.deb
 Size: 6617168
 MD5sum: 030625039674a1825f0b73e97a6e4c13
 SHA1: 0e7427c5f890b1be7b34993c9867839fcc195865
 SHA256: b674a7f9ec680054f4e404e6303f0c563827ccd326480734ff1c84cb374cd50b
-SHA512: 84a4fe23297a8d03fccbdc703f204349b64a9eb62d9102cc87dbf4cc2195a21def52c16705ce4b8a603e7e4aa6866e0c8170e9a1638b432cfeb8cd384eecd6b6
+Section: Tweaks
 Description: Awesome tweak for Twitter
-Name: BHTwitter
 Author: Bandar Alruwaili
-SileoDepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/depiction.json
-Icon: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/icon.png
 Header: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/header.png
+Icon: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/depiction.json
+
+Package: com.bandarhl.bhtwitter
+Version: 4.4
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Depends: mobilesubstrate, ws.hbang.common
+Filename: debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm.deb
+Size: 6711092
+MD5sum: 20bd4540a98dbb921e3f4ff198117542
+SHA1: 2241b4fd00d273b5e3c97f992b1f1fa8b7514841
+SHA256: 04876f87e196bf776d0c21d4b4c8092ab98e9e97e7c41c8cd51caceee0797e3b
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Header: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/header.png
+Icon: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/depiction.json
 
 Package: com.exile90.icleanerpro
-Architecture: iphoneos-arm64e
 Version: 7.10.0
-Section: Utilities
+Architecture: iphoneos-arm64e
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs//com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Filename: debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
 Size: 2500468
 MD5sum: 11cfc678f3fd5e4c12eb60ff8b31e6ec
 SHA1: fd7065ca6e23f1fee6c11ee8c98ba67e54d8e6d9
 SHA256: b55b4312dee09989754fcb3f9137f4eed093b8fdb84a2b953b757de027aa6821
-SHA512: 0aebaa3f600ff97cd555f60ae210405e522c5aab2b582beba49f662d2f0e7b0a9954b40eb5af64d191f42acf26174bb1d52aefcb34e18ca6d304b3df8af4e70a
+Section: Utilities
 Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleanup and management utility
-Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+Name: iCleaner Pro
+
+Package: com.f0u4d.watusitools
+Version: 2.5.24
+Architecture: iphoneos-arm64
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: debs/WatusiTools.2.5.24.arm64.deb
+Size: 4886660
+MD5sum: e8cb6a375e9b9ad3250a771659c4784f
+SHA1: 0952a2269f7688aefda4bc225a9186a767782706
+SHA256: 64130d223089b77d4ebc0c4be553ce2245813ef43d465fe188467430dfd129b0
+Section: Development
+Description: Library for Watusi and other WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
 
 Package: com.iStore.TikTokLRD
-Architecture: iphoneos-arm64
 Version: 3.7
-Section: Applications
+Architecture: iphoneos-arm64
 Maintainer: iStorePlus1
 Depends: mobilesubstrate
-Filename: ./debs//com.istore.tiktoklrd_3.7_iphoneos-arm64.deb
+Filename: debs/com.istore.tiktoklrd_3.7_iphoneos-arm64.deb
 Size: 3342980
 MD5sum: 3340f6878aae9ec54d404a3bca3a3280
 SHA1: b0b73e93243393534dd7e710672afa2cd53a3f17
 SHA256: c75a8abe045e0eb1f56834001f007f9dba36a44f650bce8d5af1c73e29b7e825
-SHA512: 5330323b166ca145ebfb0119a52c4298a5a1e11759a4324597bf87e21de342c5417504934664ecef5984cff03cbeda0f084ef8e7275a81033299aa421df6fa56
+Section: Applications
 Description: Paid tweak for TikTok
-Name: TikTok LRD
 Author: iStorePlus1
+Name: TikTok LRD
+
+Package: com.iStore.TikTokLRD
+Version: 3.7
+Architecture: iphoneos-arm64e
+Maintainer: iStorePlus1
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/TikTok.LRD.3.7.arm64e.deb
+Size: 3342696
+MD5sum: 343c238bbc0b644a91d873079dad34a7
+SHA1: e8dbe194da4173a2eabeca57b9ffe5c28d783824
+SHA256: dd3e175ce573c60f1fdcdc8c2f633415cf06befd229c14412d9de4e80549fd75
+Section: Applications
+Description: Paid tweak for TikTok
+Author: iStorePlus1
+Name: TikTok LRD
+
+Package: com.ipapplus.instarab
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: ipapplus
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: debs/Instagram.(Arabic.Localized).1.4.0.arm64.deb
+Size: 44884
+MD5sum: 60529bc8df8dd3d9b80b9fde4bef0d61
+SHA1: 61e4a614c032383612bce49f5c640759724abbc2
+SHA256: 4b9f6c3438adfc2c7e53d2754ff2e21a9fc57d4a4f5246feb0b01aea573900e2
+Section: Localizations
+Description: Arabic language for Instagram, translated with contribution from @r22i0.
+Author: ipapplus
+Header: https://i.imgur.com/xAIYmyc.jpeg
+Icon: https://i.imgur.com/ffrKJBH.jpeg
+Name: Instagram (Arabic Localized)
+
+Package: com.ipapplus.instarab
+Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: ipapplus
+Installed-Size: 256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/Instagram.(Arabic.Localized).1.4.0.arm64e 2.deb
+Size: 45936
+MD5sum: 1fc359b61166ca3fc5bd846fa479e2f0
+SHA1: a2d44c229f73e2d81d4208fd29fcee81b53ac1a7
+SHA256: b1d2ec782d5412a459b5aff7702ea306bf08c4c4ecbe8371d59fc68a8d51a015
+Section: Localizations
+Description: Arabic language for Instagram, translated with contribution from @r22i0.
+Author: ipapplus
+Header: https://i.imgur.com/xAIYmyc.jpeg
+Icon: https://i.imgur.com/ffrKJBH.jpeg
+Name: Instagram (Arabic Localized)
+
+Package: com.istore.JodelLRD
+Version: 2.10
+Architecture: iphoneos-arm64e
+Maintainer: iStorePlus1
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/JodelLRD.2.10.arm64e.deb
+Size: 925920
+MD5sum: 6fc23d6659b4da9562636e1fb27792ad
+SHA1: b6223ccd9cf0f6ec9c48f4c2b956fa5e96b4c7a7
+SHA256: 17e90e1f8d3fbcb4a18f834bf99d76d6b89351b3232ef804303c78d167ae9dca
+Section: Applications
+Description: Paid tweak for Jodel
+Author: iStorePlus1
+Name: JodelLRD
+
+Package: com.istore.JodelLRD
+Version: 2.10
+Architecture: iphoneos-arm64
+Maintainer: iStorePlus1
+Depends: mobilesubstrate
+Filename: debs/JodelLRD.2.10.arm64.deb
+Size: 925992
+MD5sum: 580b5f9e33a4ce5e6f7272dff5f1b27b
+SHA1: 53565912a88a7e30c6fe48af02c22d003797b020
+SHA256: e532532e882f0f56097384cf4f2905069c08153b0304f501f37a1d81685b9363
+Section: Applications
+Description: Paid tweak for Jodel
+Author: iStorePlus1
+Name: JodelLRD
 
 Package: com.opa334.trollstorelite
-Architecture: appletvos-arm64
 Version: 2.1
-Section: Applications
+Architecture: appletvos-arm64
 Maintainer: opa334
 Installed-Size: 964
 Depends: ldid
-Filename: ./debs//com.opa334.trollstorelite_2.1_appletvos-arm64.deb
+Filename: debs/com.opa334.trollstorelite_2.1_appletvos-arm64.deb
 Size: 533948
 MD5sum: 4bbeadb6cdaa41f44aef09fce6c76b60
 SHA1: 2a69ab9916b1f9df9c930969e0f36cb32e15c1a7
 SHA256: 4c95d95d3c8c4ebe368e60b6a3216a5850b88fdbbf9724165cfbca21697f6686
-SHA512: 5376301da9d880027db1d18b6a81c0ca4cf00d30afd8a2a5b6c5976a346554c0a6482c2e3081d5ec425ef91d55d5c0681ec7f290e77fc845d8b5b71fdaea0aba
+Section: Applications
 Description: TrollStore for jailbroken tvOS
-Name: TrollStore Lite
 Author: opa334
+Name: TrollStore Lite
 
 Package: com.ps.ytx
-Architecture: iphoneos-arm64e
 Version: 1.7.9
-Section: Tweaks
+Architecture: iphoneos-arm64e
 Maintainer: PoomSmart
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.ps.ytabgoodies
-Filename: ./debs//com.ps.ytx_1.7.9_iphoneos-arm64e.deb
+Filename: debs/com.ps.ytx_1.7.9_iphoneos-arm64e.deb
 Size: 5276
 MD5sum: 0231605f6f91ae63a6d6fea1ae329f91
 SHA1: 5ede48930f128aed99882cadc657104cc1100de1
 SHA256: d885885cf25d6957c7e3edbf4c2dcea75905552e8b3622a352f2dcded370e7e6
-SHA512: 79b326da0c76674d75801b3eb765d8ae102b6a6ad61401ce7c4bbd6bd877888ac6d6e6494d0122e2f84c69cf66494cca0c0f6f880897d683bf0c3188f33011df
+Section: Tweaks
 Description: A YouTube improvement tweak.
-Name: YouTube X
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+Name: YouTube X
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
 Package: com.tigisoftware.appdatamanager
-Architecture: iphoneos-arm64
 Version: 1.8.2-4
-Section: Utilities
+Architecture: iphoneos-arm64
 Maintainer: TIGI Software
 Installed-Size: 5236
 Recommends: ldid
-Filename: ./debs//com.tigisoftware.appdatamanager_1.8.2-4_iphoneos-arm64.deb
+Filename: debs/com.tigisoftware.appdatamanager_1.8.2-4_iphoneos-arm64.deb
 Size: 1900552
 MD5sum: 83d681d4b17b81059c5ee4682dd9a0a0
 SHA1: dd86ddeae5f0d40d0ba2380c333a62b40e8c6e99
 SHA256: b321ddaf6d03e2f2710c9f8f9a6a6d617e3c6db2abf46cced44ddbe82629ee50
-SHA512: 5b75d1f3de2609c1dc0ca3b4fd420d2b987c6f360177fc300c6a1315520a4085333b1eccadf8468022c0d90ddf82ec3bfdc0d2a73509073e5ed025146fc8c5fb
+Section: Utilities
 Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
-Name: Apps Manager
 Author: TIGI Software
+Name: Apps Manager
 
 Package: dev.objcmsgsend.iota.RivesDev
-Architecture: iphoneos-arm64e
 Version: 2.4
-Section: Tweaks
+Architecture: iphoneos-arm64e
 Maintainer: objc_msgSend
 Installed-Size: 2472
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Replaces: dev.objcmsgsend.iota.ar
-Filename: ./debs//dev.objcmsgsend.iota.RivesDev_2.4_iphoneos-arm64e.deb
+Filename: debs/dev.objcmsgsend.iota.RivesDev_2.4_iphoneos-arm64e.deb
 Size: 559572
 MD5sum: 7d7c663d00c4c0d7b0a8330ecc37d558
 SHA1: e2b5231cbd355881b050b037a906aba6aa458d3f
 SHA256: f4f0142fb5c70b1d7e4d33f48d9fd50c5470ffbebfa1ec48764a3b6cb90f208e
-SHA512: 3aeab58dbfb57f8eba2a244d937d408171fa800503ce1684631a723e1f334a6d1dacfd4366206d88096664c5e61194d1d9fe7e3273085b4a299b80aeeaaf1bf6
+Section: Tweaks
 Description: لتثبيت الاداة على أفضل وجه يرجى متابعة الشرح الموجود على حسابي في تويتر @_juz4
-Name: iota RootHide
 Author: objc_msgSend
+Name: iota RootHide
 
 Package: dev.zero.wicked
-Architecture: iphoneos-arm64e
 Version: 3.0b10
-Section: Development
+Architecture: iphoneos-arm64e
 Maintainer: zero
 Installed-Size: 19416
 Pre-Depends: rootless-compat(>= 0.9)
 Conflicts: dev.zero.wisp
 Replaces: dev.zero.wisp
-Filename: ./debs//wicked.3.0b10.arm64e.deb
+Filename: debs/wicked.3.0b10.arm64e.deb
 Size: 7903260
 MD5sum: 3274dd4a94d3c9a9d5b9d71ce73ff190
 SHA1: 90e1be5e5f687fa23f03f55c3a36279b7502c15f
 SHA256: 125c71df7e19e69c89f98d1312091214d0db2b041e0ec8248c864990182cb8f8
-SHA512: f2987e2fab684375f4c233ac9cf2067c9180c43acf81efd99f3bd1ee652961fc1f6af6d362f1e4271c9b76ce6241fcac00c87526cea11f802b41976ef6d2c1d6
+Section: Development
 Description: wicked
-Name: wicked
 Author: zero
 Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak-assets/Wicked_2048x2048.png
+Name: wicked
+
+Package: sa.ipapplus.autorepomanager
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: ipapplus
+Depends: apt-utils
+Filename: debs/AutoRepoManager.1.1.arm.deb
+Size: 3244
+MD5sum: 25c079279723125b41d1afe119c413b1
+SHA1: d1c1d765f14e269d8442f463386c34a564780cd3
+SHA256: dd0c6b0dd553c201bee28244569742b84ef190a1037e31af9866b9200d800854
+Section: scripts
+Description: is a collection of scripts for easily managing repositories through Filza It simplifies tasks like adding updating and organizing repos efficiently , Created by Ahmed AlGhrbi @ipapplus
+Author: ipapplus
+Icon: https://i.imgur.com/ZKCJQvf.jpeg
+Name: AutoRepoManager
 
 Package: ws.hbang.common
-Architecture: iphoneos-arm64e
 Version: 2.0-29
-Section: Development
+Architecture: iphoneos-arm64e
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Installed-Size: 3132
 Depends: firmware (>= 15.0)
-Filename: ./debs//ws.hbang.common_2.0-29_iphoneos-arm64e 2.deb
+Filename: debs/ws.hbang.common_2.0-29_iphoneos-arm64e 2.deb
 Size: 304566
 MD5sum: 8f10a20e69b6196d558680c6de959a10
 SHA1: 70a6fe7f4ad528248fc1f137edf8c14d23e54082
 SHA256: fd69a700d66bf44f4e579fb65cc5bdbd86c5dfd6726888639502b251f63b230b
-SHA512: 89a747a98bb81c76064533ba9ee0a0d9b0bfb11a79f23035a1799040631114513450f31fdc0d83ae682a765d3db8473af8acbef94486fd4cc11e78ccf7f5d873
+Section: Development
 Description: Support library for tweaks
 Tag: role::developer, compatible_min::ios15.0
-Name: Cephei Tweak Support
 Author: HASHBANG Productions <support@hbang.ws>
-Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Depiction: https://chariz.com/get/cephei
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Name: Cephei Tweak Support
 Support: https://hashbang.productions/support/
 
