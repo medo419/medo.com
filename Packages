@@ -202,3 +202,17 @@ SHA1: ed933ca14af2496293c730bdde021cc9dfd7c109
 SHA256: f4a2b7f43eb439585c7444380947190647c8eb35fd164c73afd8ac760d1f563a
 Name: AppData.1.4.4.arm64e.deb
 
+Package: Filza.File.Manager.64-bit
+Version: 4.0.1-4
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: Filza.File.Manager.64-bit.4.0.1-4.arm64.deb package for iOS
+Section: Tweaks
+Filename: ./debs/Filza.File.Manager.64-bit.4.0.1-4.arm64.deb
+Size: 6973616
+Installed-Size: 6810
+MD5sum: d221799aeb1d7f63d8d03e3e19df0fc9
+SHA1: a4a82b651339d4f9a2e248b36712c5427266897b
+SHA256: 9d12b2e3698d2873d2db1cf4ca98d7b3d5f5cd377de9da42108b101b03a3cf46
+Name: Filza.File.Manager.64-bit.4.0.1-4.arm64.deb
+
