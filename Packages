@@ -1,3 +1,22 @@
+Package: com.netskao.appdata
+Architecture: iphoneos-arm64e
+Version: 1.4.4
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 13548
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs//AppData.1.4.4.arm64e.deb
+Size: 5049692
+MD5sum: a8249f1d9df2882048d2a7131760059d
+SHA1: ed933ca14af2496293c730bdde021cc9dfd7c109
+SHA256: f4a2b7f43eb439585c7444380947190647c8eb35fd164c73afd8ac760d1f563a
+SHA512: c8c1d2c150f7a2a97b7f56867cb2d2d0cbd124c10be3304e4fbe169626d622914238e0a85ed8e13055d7cd79700691ad3256aee8540446bfc73cb90284dee293
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm
 Version: 1.1
@@ -15,6 +34,96 @@ Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
 Author: ipapplus
 
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64
+Version: 4.0.1-4
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs//Filza.File.Manager.64-bit.4.0.1-4.arm64.deb
+Size: 6973616
+MD5sum: d221799aeb1d7f63d8d03e3e19df0fc9
+SHA1: a4a82b651339d4f9a2e248b36712c5427266897b
+SHA256: 9d12b2e3698d2873d2db1cf4ca98d7b3d5f5cd377de9da42108b101b03a3cf46
+SHA512: cafefe03db72be8a7820c0ff25ff182eab2909e1124b70db7bde2db24fc2cc837232f35e0545c437c8412e06bfb319972e9e22696d2d8946e2cf5147375876ef
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Section: Localizations
+Maintainer: ipapplus
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs//Instagram.(Arabic.Localized).1.4.0.arm64.deb
+Size: 44884
+MD5sum: 60529bc8df8dd3d9b80b9fde4bef0d61
+SHA1: 61e4a614c032383612bce49f5c640759724abbc2
+SHA256: 4b9f6c3438adfc2c7e53d2754ff2e21a9fc57d4a4f5246feb0b01aea573900e2
+SHA512: e0f27357511c87b60c9ee8079d3d7b0a20e5dadabe3de71a398b8df452f246fa6d4badb5c51fe5fba9f1bc003b33cb3250a047161199bdfd2740eed19e3110b4
+Description: Arabic language for Instagram, translated with contribution from @r22i0.
+Name: Instagram (Arabic Localized)
+Author: ipapplus
+Icon: https://i.imgur.com/ffrKJBH.jpeg
+Header: https://i.imgur.com/xAIYmyc.jpeg
+
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm64e
+Version: 1.4.0
+Section: Localizations
+Maintainer: ipapplus
+Installed-Size: 256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs//Instagram.(Arabic.Localized).1.4.0.arm64e 2.deb
+Size: 45936
+MD5sum: 1fc359b61166ca3fc5bd846fa479e2f0
+SHA1: a2d44c229f73e2d81d4208fd29fcee81b53ac1a7
+SHA256: b1d2ec782d5412a459b5aff7702ea306bf08c4c4ecbe8371d59fc68a8d51a015
+SHA512: 4673c9cf469dba583fdffae98d1062a3b660757cf6d4fa7211bea9bbb719374dbc16e8dfd6ccff13f680779e8e7f1154805ae537a4dd51fc298516420d12ca54
+Description: Arabic language for Instagram, translated with contribution from @r22i0.
+Name: Instagram (Arabic Localized)
+Author: ipapplus
+Icon: https://i.imgur.com/ffrKJBH.jpeg
+Header: https://i.imgur.com/xAIYmyc.jpeg
+
+Package: com.istore.JodelLRD
+Architecture: iphoneos-arm64
+Version: 2.10
+Section: Applications
+Maintainer: iStorePlus1
+Depends: mobilesubstrate
+Filename: ./debs//JodelLRD.2.10.arm64.deb
+Size: 925992
+MD5sum: 580b5f9e33a4ce5e6f7272dff5f1b27b
+SHA1: 53565912a88a7e30c6fe48af02c22d003797b020
+SHA256: e532532e882f0f56097384cf4f2905069c08153b0304f501f37a1d81685b9363
+SHA512: e53c3cc4bda48b771d4fe5313651d1327370b3784ae51d375233230b289fd0ce467033cdbacc1a2004d099bbed1ec95dd1055059c21b09420da27317b305c225
+Description: Paid tweak for Jodel
+Name: JodelLRD
+Author: iStorePlus1
+
+Package: com.istore.JodelLRD
+Architecture: iphoneos-arm64e
+Version: 2.10
+Section: Applications
+Maintainer: iStorePlus1
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs//JodelLRD.2.10.arm64e.deb
+Size: 925920
+MD5sum: 6fc23d6659b4da9562636e1fb27792ad
+SHA1: b6223ccd9cf0f6ec9c48f4c2b956fa5e96b4c7a7
+SHA256: 17e90e1f8d3fbcb4a18f834bf99d76d6b89351b3232ef804303c78d167ae9dca
+SHA512: 41b0609483e423322db5684b11dbcf667d738ccfd76ba069899d668d4134a84743194e6aca78041ffeb66dc5b89962b2078818b749d88ebdf9192c2ec20107f5
+Description: Paid tweak for Jodel
+Name: JodelLRD
+Author: iStorePlus1
+
 Package: com.iStore.TikTokLRD
 Architecture: iphoneos-arm64e
 Version: 3.7
@@ -31,6 +140,23 @@ SHA512: caea70a301dd69774913d65a806e6f501c81665e844d5226f87f836ee3ac4a462fd78351
 Description: Paid tweak for TikTok
 Name: TikTok LRD
 Author: iStorePlus1
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.5.24
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs//WatusiTools.2.5.24.arm64.deb
+Size: 4886660
+MD5sum: e8cb6a375e9b9ad3250a771659c4784f
+SHA1: 0952a2269f7688aefda4bc225a9186a767782706
+SHA256: 64130d223089b77d4ebc0c4be553ce2245813ef43d465fe188467430dfd129b0
+SHA512: 7f8f5d812497b99441a6b65fae7560bb6d12355a8119cf1788af77c897bf643a395a4bf29cf429d764d0be079c7f1dd42e2c5bd14bc66eaaffe3c39412d868da
+Description: Library for Watusi and other WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm
@@ -128,6 +254,42 @@ Description: TrollStore for jailbroken tvOS
 Name: TrollStore Lite
 Author: opa334
 
+Package: com.ps.ytx
+Architecture: iphoneos-arm64e
+Version: 1.7.9
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.ps.ytabgoodies
+Filename: ./debs//com.ps.ytx_1.7.9_iphoneos-arm64e.deb
+Size: 5276
+MD5sum: 0231605f6f91ae63a6d6fea1ae329f91
+SHA1: 5ede48930f128aed99882cadc657104cc1100de1
+SHA256: d885885cf25d6957c7e3edbf4c2dcea75905552e8b3622a352f2dcded370e7e6
+SHA512: 79b326da0c76674d75801b3eb765d8ae102b6a6ad61401ce7c4bbd6bd877888ac6d6e6494d0122e2f84c69cf66494cca0c0f6f880897d683bf0c3188f33011df
+Description: A YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+
+Package: com.tigisoftware.appdatamanager
+Architecture: iphoneos-arm64
+Version: 1.8.2-4
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 5236
+Recommends: ldid
+Filename: ./debs//com.tigisoftware.appdatamanager_1.8.2-4_iphoneos-arm64.deb
+Size: 1900552
+MD5sum: 83d681d4b17b81059c5ee4682dd9a0a0
+SHA1: dd86ddeae5f0d40d0ba2380c333a62b40e8c6e99
+SHA256: b321ddaf6d03e2f2710c9f8f9a6a6d617e3c6db2abf46cced44ddbe82629ee50
+SHA512: 5b75d1f3de2609c1dc0ca3b4fd420d2b987c6f360177fc300c6a1315520a4085333b1eccadf8468022c0d90ddf82ec3bfdc0d2a73509073e5ed025146fc8c5fb
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Name: Apps Manager
+Author: TIGI Software
+
 Package: dev.objcmsgsend.iota.RivesDev
 Architecture: iphoneos-arm64e
 Version: 2.4
@@ -145,6 +307,80 @@ SHA256: f4f0142fb5c70b1d7e4d33f48d9fd50c5470ffbebfa1ec48764a3b6cb90f208e
 SHA512: 3aeab58dbfb57f8eba2a244d937d408171fa800503ce1684631a723e1f334a6d1dacfd4366206d88096664c5e61194d1d9fe7e3273085b4a299b80aeeaaf1bf6
 Description: لتثبيت الاداة على أفضل وجه يرجى متابعة الشرح الموجود على حسابي في تويتر @_juz4
 Name: iota RootHide
+Author: objc_msgSend
+
+Package: dev.objcmsgsend.iota
+Architecture: iphoneos-arm
+Version: 5.3.2
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 15044
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.objcmsgsend.iota-lite
+Replaces: dev.kanji.iota
+Filename: ./debs//dev.objcmsgsend.iota_5.3.2_iphoneos-arm.deb
+Size: 3053428
+MD5sum: 8bc08c78b816621981b47cf5b84721b3
+SHA1: 391a1eafa75386831b9e0ed6055b1beb4b504881
+SHA256: acf75d07e62386f868744826d339cb443943ad290e2ddcad31a60d12f26e9d0e
+SHA512: 14590becfa4a2f23279ba741a6796f210880e472c9874ed73e25eb63ee0870e516bdff294ebae65b8da9d1158d68bf0aec69d715e0dfa0cc6db4ee32735ca8e4
+Description: A great Snapchat tweak 🥀.
+Name: iota
+Author: objc_msgSend
+SileoDepiction: https://objcmsgsend.dev/depiction.json
+Icon: https://objcmsgsend.dev/iota_icon.png
+
+Package: dev.objcmsgsend.iota
+Architecture: iphoneos-arm64
+Version: 5.3.2
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 17864
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.objcmsgsend.iota-lite
+Replaces: dev.kanji.iota
+Filename: ./debs//dev.objcmsgsend.iota_5.3.2_iphoneos-arm64.deb
+Size: 3241382
+MD5sum: 810eaa2f9b3509481d0d6b2b24b5f44f
+SHA1: 88572bb72ad4af2d9487022c8f0d814423f655fa
+SHA256: 40f09fc566e1792c86bbcb93e1c739c9548bcc98d312b0f2497487bdec996daf
+SHA512: 75a97f85d1c4b514370647980b3bbda5c939a3a4088443ec06dd5b890baa3afa3f14a5affaed729345e65921b6871c41501bd8db7117273fbcf0d4febec58444
+Description: A great Snapchat tweak 🥀.
+Name: iota
+Author: objc_msgSend
+SileoDepiction: https://objcmsgsend.dev/depiction.json
+Icon: https://objcmsgsend.dev/iota_icon.png
+
+Package: dev.objcmsgsend.theta
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 512
+Filename: ./debs//dev.objcmsgsend.theta_2.2_iphoneos-arm.deb
+Size: 155446
+MD5sum: 6fe69cc73abeb8518767d8a3eb2d8db3
+SHA1: c2c96ea1d0d97058028d90a6482b49461d9d2f56
+SHA256: 12e1aa9b2ca54fd2af43b940c6453ee67b92b5b735d667a19441b47c62c4200b
+SHA512: 60e7c3596eac7ffd44831f2da7b045a78c79faa4f1d07036f01e40222767a672874b81116cdbbf88d9a8971e1b727f15cab6bc996cc548a53726c87dae73524c
+Description: An awesome tweak for Instagram!
+Name: Theta
+Author: objc_msgSend
+
+Package: dev.objcmsgsend.theta
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 528
+Filename: ./debs//dev.objcmsgsend.theta_2.2_iphoneos-arm64.deb
+Size: 157520
+MD5sum: 2580fcaefc85ebdf5ac72439468f9765
+SHA1: ddd854558df81bc051359950075b79a408aca3f7
+SHA256: 98b128e3a735056b8566f9c8a62841c2c70b1520c369f8747755287dbfd004f7
+SHA512: 910c8070f7c34169e284489e2ae462463a885030ac325961c6b065cb78e29c344c21242f7d44c3e6e5fc9d7798b475fec5d8ff2f4ec8c56e6532296332f7a39c
+Description: An awesome tweak for Instagram!
+Name: Theta
 Author: objc_msgSend
 
 Package: dev.zero.wicked
@@ -187,32 +423,4 @@ Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Depiction: https://chariz.com/get/cephei
 Support: https://hashbang.productions/support/
-
-Package: AppData
-Version: 1.4.4
-Architecture: iphoneos-arm64e
-Maintainer: 
-Description: AppData.1.4.4.arm64e.deb package for iOS
-Section: Tweaks
-Filename: ./debs/AppData.1.4.4.arm64e.deb
-Size: 5049692
-Installed-Size: 4931
-MD5sum: a8249f1d9df2882048d2a7131760059d
-SHA1: ed933ca14af2496293c730bdde021cc9dfd7c109
-SHA256: f4a2b7f43eb439585c7444380947190647c8eb35fd164c73afd8ac760d1f563a
-Name: AppData.1.4.4.arm64e.deb
-
-Package: Filza.File.Manager.64-bit
-Version: 4.0.1-4
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: Filza.File.Manager.64-bit.4.0.1-4.arm64.deb package for iOS
-Section: Tweaks
-Filename: ./debs/Filza.File.Manager.64-bit.4.0.1-4.arm64.deb
-Size: 6973616
-Installed-Size: 6810
-MD5sum: d221799aeb1d7f63d8d03e3e19df0fc9
-SHA1: a4a82b651339d4f9a2e248b36712c5427266897b
-SHA256: 9d12b2e3698d2873d2db1cf4ca98d7b3d5f5cd377de9da42108b101b03a3cf46
-Name: Filza.File.Manager.64-bit.4.0.1-4.arm64.deb
 
